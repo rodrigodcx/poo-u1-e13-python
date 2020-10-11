@@ -27,3 +27,7 @@ class Loja:
   def dados_loja(self):
     # Implemente aqui
     return "" 
+
+class Venda:
+  pass
+  # Implemente aqui
